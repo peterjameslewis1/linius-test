@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/linius-test/static/css/main.35806164.chunk.css",
+    "main.js": "/linius-test/static/js/main.b441ed8c.chunk.js",
+    "main.js.map": "/linius-test/static/js/main.b441ed8c.chunk.js.map",
+    "runtime-main.js": "/linius-test/static/js/runtime-main.a4a2e192.js",
+    "runtime-main.js.map": "/linius-test/static/js/runtime-main.a4a2e192.js.map",
+    "static/js/2.324f9652.chunk.js": "/linius-test/static/js/2.324f9652.chunk.js",
+    "static/js/2.324f9652.chunk.js.map": "/linius-test/static/js/2.324f9652.chunk.js.map",
+    "static/js/3.5ad96fe9.chunk.js": "/linius-test/static/js/3.5ad96fe9.chunk.js",
+    "static/js/3.5ad96fe9.chunk.js.map": "/linius-test/static/js/3.5ad96fe9.chunk.js.map",
+    "index.html": "/linius-test/index.html",
+    "static/css/main.35806164.chunk.css.map": "/linius-test/static/css/main.35806164.chunk.css.map",
+    "static/js/2.324f9652.chunk.js.LICENSE.txt": "/linius-test/static/js/2.324f9652.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a4a2e192.js",
+    "static/js/2.324f9652.chunk.js",
+    "static/css/main.35806164.chunk.css",
+    "static/js/main.b441ed8c.chunk.js"
+  ]
+}
